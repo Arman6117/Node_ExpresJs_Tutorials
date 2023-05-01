@@ -1,0 +1,12 @@
+{
+  "name": "codes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_Globals.js",
+  "scripts": {
+   "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
